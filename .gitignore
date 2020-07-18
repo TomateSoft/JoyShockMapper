@@ -314,3 +314,4 @@ Makefile
 install_manifest.txt
 compile_commands.json
 _deps
+.vscode/settings.json
